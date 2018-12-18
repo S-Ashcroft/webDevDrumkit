@@ -39,8 +39,6 @@ h1 {
 }
 
 @keyframes move1key {
-    /* from {font-size: 10px}
-    to {font-size: 50px} */
     0% {bottom: -10vw;}
     50% {bottom: 10vw; 
         left: -4vw;}
@@ -53,8 +51,6 @@ h1 {
 }
  
 @keyframes move2key {
-    /* from {font-size: 10px}
-    to {font-size: 50px} */
     0% {bottom: -10vw;}
     50% {bottom: 10vw; 
         left: 15vw;}
@@ -67,8 +63,6 @@ h1 {
 }
 
 @keyframes move3key {
-    /* from {font-size: 10px}
-    to {font-size: 50px} */
     0% {bottom: -10vw;}
     50% {bottom: 10vw; 
         left: 80vw;}
@@ -81,8 +75,6 @@ h1 {
 }
 
 @keyframes move4key {
-    /* from {font-size: 10px}
-    to {font-size: 50px} */
     0% {bottom: -10vw;}
     50% {bottom: 4vw; 
         left: -4vw;}
@@ -95,8 +87,6 @@ h1 {
 }
 
 @keyframes move5key {
-    /* from {font-size: 10px}
-    to {font-size: 50px} */
     0% {bottom: -10vw;}
     50% {bottom: 4vw; 
         left: 15vw;}
@@ -109,8 +99,6 @@ h1 {
 }
 
 @keyframes move6key {
-    /* from {font-size: 10px}
-    to {font-size: 50px} */
     0% {bottom: -10vw;}
     50% {bottom: 4vw; 
         left: 80vw;}
@@ -123,8 +111,6 @@ h1 {
 }
 
 @keyframes move7key {
-    /* from {font-size: 10px}
-    to {font-size: 50px} */
     0% {bottom: -10vw;}
     50% {bottom: -1vw; 
         left: -4vw;}
@@ -137,8 +123,6 @@ h1 {
 }
 
 @keyframes move8key {
-    /* from {font-size: 10px}
-    to {font-size: 50px} */
     0% {bottom: -10vw;}
     50% {bottom: -1vw; 
         left: 60vw;}
@@ -151,8 +135,6 @@ h1 {
 }
 
 @keyframes move9key {
-    /* from {font-size: 10px}
-    to {font-size: 50px} */
     0% {bottom: -10vw;}
     50% {bottom: -1vw; 
         left: 80vw;}
